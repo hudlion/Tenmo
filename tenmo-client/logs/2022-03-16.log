@@ -1,0 +1,2 @@
+2022-03-16T13:23:26.9329373 500 : [{"timestamp":"2022-03-16T17:23:26.482+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [START TRANSACTION; UPDATE account SET balance = ? WHERE account_id ... (791 bytes)]
+2022-03-16T13:23:27.0835775 500 : [{"timestamp":"2022-03-16T17:23:27.066+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; uncategorized SQLException for SQL [SELECT balance FROM account JOIN ten... (561 bytes)]
